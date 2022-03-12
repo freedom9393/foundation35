@@ -1,0 +1,1 @@
+print("Barcelona 0 - 0 Galatasaray")
