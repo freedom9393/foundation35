@@ -1,1 +1,5 @@
-print("Barcelona 0 - 0 Galatasaray")
+
+for i in range(15, 4, -2):
+	print(i)
+
+print("Ertaga futbolmi???")
